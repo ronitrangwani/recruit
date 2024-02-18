@@ -14,14 +14,17 @@ Welcome to the Recruiter Friend GitHub repository! In this project, our task is 
 **📦 Dependencies**: I used libraries TypeScript.
 
 ## 📸 Screenshots
+![recruit-ui1](https://github.com/ronitrangwani/recruit/assets/62294536/724c6d60-4c61-4e5e-a1dd-0579c06f90a7)
+
+![recruit-ui2](https://github.com/ronitrangwani/recruit/assets/62294536/471f3844-5eeb-4eb0-8e53-1cdb2f5493dd)
+
+![recruit-ui3](https://github.com/ronitrangwani/recruit/assets/62294536/2900e87b-8acb-473c-9b5f-659ebb2d95ce)
+
+![recruit-ui4](https://github.com/ronitrangwani/recruit/assets/62294536/841a2f1d-ad22-4884-a008-18694850d817)
+
+![recruit-ui5](https://github.com/ronitrangwani/recruit/assets/62294536/4032fcc4-6d8d-4d3c-bac0-0eed6e7292ea)
 
 
-![IMG-20231023-WA0038](https://github.com/Abhilasha-Jairath/recruiterFriend/assets/53110403/f13e3ae8-3a6d-44df-9977-ea659895171b)
-![IMG-20231023-WA0043](https://github.com/Abhilasha-Jairath/recruiterFriend/assets/53110403/2d166b0e-2c28-4244-a1a7-302a38e9a76e)
-![IMG-20231023-WA0039](https://github.com/Abhilasha-Jairath/recruiterFriend/assets/53110403/c0590a73-d423-4013-9602-cb5a33837702)
-![IMG-20231023-WA0041](https://github.com/Abhilasha-Jairath/recruiterFriend/assets/53110403/910c25cc-0bd0-48b0-80aa-efd83d33c896)
-![IMG-20231023-WA0042](https://github.com/Abhilasha-Jairath/recruiterFriend/assets/53110403/c99eea44-eedd-4e70-abd6-a5b41b976578)
-![IMG-20231023-WA0040](https://github.com/Abhilasha-Jairath/recruiterFriend/assets/53110403/83b721ee-755c-4064-b53d-c72b9aa90dcb)
 
 ## 🚀 Install project dependencies
 npm install
