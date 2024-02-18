@@ -31,10 +31,10 @@ npm start
 
 ## 📄 License
 
-This project is licensed under the [Abhilasha Jairath](LICENSE.md) - add the appropriate license name and link to the LICENSE file.
+This project is licensed under the [Ronit Rangwani](LICENSE.md) - add the appropriate license name and link to the LICENSE file.
 
 ## ✉️ Feedback and Support
 
-Feel free to reach out with any questions, feedback, or support requests. You can contact us at [abhilashajairath257@gmail.com](mailto:abhilashajairath257@gmail.com).
+Feel free to reach out with any questions, feedback, or support requests. You can contact us at [ronitrangwani@gmail.com](mailto:ronitrangwani@gmail.com).
 
 
